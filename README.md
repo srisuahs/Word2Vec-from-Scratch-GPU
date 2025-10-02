@@ -83,6 +83,11 @@ To get a local copy up and running, follow these steps.
     pip install cupy-cuda12x
     ```
 
+## Dataset
+
+1. Download dataset from here https://mattmahoney.net/dc/enwik9.zip
+2. Unzip the file and convert the extention to .xml
+
 ## Usage
 
 1.  Place the `enwiki9.xml` file in the root of the project directory.
