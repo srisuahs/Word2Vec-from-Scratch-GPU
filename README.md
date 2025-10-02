@@ -68,7 +68,7 @@ To get a local copy up and running, follow these steps.
 
 1.  Clone the repo:
     ```sh
-    git clone [https://github.com/your_username/Word2Vec-from-Scratch-GPU.git](https://github.com/your_username/Word2Vec-from-Scratch-GPU.git)
+    git clone [https://github.com/srisuahs/Word2Vec-from-Scratch-GPU.git](https://github.com/your_username/Word2Vec-from-Scratch-GPU.git)
     ```
 2.  Navigate to the project directory:
     ```sh
