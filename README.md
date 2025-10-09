@@ -82,7 +82,7 @@ This is for running the entire process, from download to visualization. This is 
 * **Cells to Run:** Click **"Run All"** at the top of the notebook. The first cell will handle all installations and data downloads automatically.
 
 #### Scenario B: Evaluation & Visualization Only (Using Pre-trained Vectors)
-This is the recommended workflow for quickly exploring the project's results. This assumes the provided `word_vectors.npy` and `vocabulary.json` files are present in the repository.
+This is the recommended workflow for quickly exploring the project's results. This assumes the `word_vectors.npy` and `vocabulary.json` files are already created using the code.
 
 1.  **Run Cell 1 ("Project Setup and Data Automation"):** This will install all required Python packages. You can ignore the data download messages if the files are already present.
 2.  **SKIP** all the cells for data processing and model training (Cells under headings 1, 2, and 3).
