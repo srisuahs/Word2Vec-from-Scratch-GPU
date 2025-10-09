@@ -59,7 +59,7 @@ This repository is designed to be fully self-contained. The entire project can b
 **Instructions:**
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/srisuahs/Word2Vec-from-Scratch-GPU.git](https://github.com/srisuahs/Word2Vec-from-Scratch-GPU.git)
+    git clone https://github.com/srisuahs/Word2Vec-from-Scratch-GPU.git
     ```
 2.  Navigate to the project directory:
     ```sh
